@@ -1,7 +1,7 @@
 ---
 title: 简介
 site_name: 小安家
-layous: none
+layous: default
 ---
 ## 欢迎光临小安家
 
