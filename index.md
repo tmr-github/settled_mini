@@ -1,6 +1,7 @@
 ---
 title: 简介
 site_name: 小安家
+layous: none
 ---
 ## Welcome to GitHub Pages
 
