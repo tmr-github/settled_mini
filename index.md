@@ -3,20 +3,19 @@ title: 简介
 site_name: 小安家
 layous: none
 ---
-## Welcome to GitHub Pages
+## 欢迎光临小安家
 
-You can use the [editor on GitHub](https://github.com/tmr-github/settled_mini/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[editor on GitHub](https://github.com/tmr-github/settled_mini/edit/gh-pages/index.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 专业上门，水电装修，热水器抽油烟机灯具安装
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 联系方式
+18176365638
 ## Header 2
 ### Header 3
 
