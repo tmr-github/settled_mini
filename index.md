@@ -1,5 +1,6 @@
 ---
-title: 你好，世界
+title: 简介
+site_name: 小安家
 ---
 ## Welcome to GitHub Pages
 
