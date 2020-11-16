@@ -11,6 +11,6 @@ layous: default
 ![Imgae](https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/d788d43f8794a4c27b8812a505f41bd5ac6e3990.jpg)
 ![Image](http://pic.baike.soso.com/p/20131022/20131022163954-497390757.jpg)
 
-###联系方式
-唐先生
+### 联系方式
+唐先生:
 18176365638
